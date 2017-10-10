@@ -7,3 +7,12 @@ C:\Users\carlos.martinez\Source\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma
 C:\Users\carlos.martinez\Source\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.AssemblyInfo.cs
 C:\Users\carlos.martinez\Source\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.dll
 C:\Users\carlos.martinez\Source\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.pdb
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\bin\Debug\netstandard2.0\Sigma.Model.deps.json
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\bin\Debug\netstandard2.0\Sigma.Model.dll
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\bin\Debug\netstandard2.0\Sigma.Model.pdb
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.csprojResolveAssemblyReference.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.csproj.CoreCompileInputs.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.AssemblyInfoInputs.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.AssemblyInfo.cs
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.dll
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Model\obj\Debug\netstandard2.0\Sigma.Model.pdb

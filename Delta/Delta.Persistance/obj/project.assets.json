@@ -4709,11 +4709,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Persistance\\Delta.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Persistance\\Delta.Persistance.csproj",
       "projectName": "Delta.Persistance",
-      "projectPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Persistance\\Delta.Persistance.csproj",
+      "projectPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Persistance\\Delta.Persistance.csproj",
       "packagesPath": "C:\\Users\\carlos.martinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Persistance\\obj\\",
+      "outputPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4732,8 +4732,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Model\\Delta.Model.csproj": {
-              "projectPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Model\\Delta.Model.csproj"
+            "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Model\\Delta.Model.csproj": {
+              "projectPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Model\\Delta.Model.csproj"
             }
           }
         }

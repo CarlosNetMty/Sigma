@@ -7,3 +7,12 @@ C:\Users\carlos.martinez\Source\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.C
 C:\Users\carlos.martinez\Source\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.dll
 C:\Users\carlos.martinez\Source\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.pdb
 C:\Users\carlos.martinez\Source\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.csprojResolveAssemblyReference.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\bin\Debug\netcoreapp2.0\Delta.Core.deps.json
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\bin\Debug\netcoreapp2.0\Delta.Core.dll
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\bin\Debug\netcoreapp2.0\Delta.Core.pdb
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.csprojResolveAssemblyReference.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.csproj.CoreCompileInputs.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.AssemblyInfoInputs.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.AssemblyInfo.cs
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.dll
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Delta.Core\obj\Debug\netcoreapp2.0\Delta.Core.pdb

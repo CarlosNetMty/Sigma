@@ -2815,11 +2815,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Core\\Delta.Core.csproj",
+      "projectUniqueName": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Core\\Delta.Core.csproj",
       "projectName": "Delta.Core",
-      "projectPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Core\\Delta.Core.csproj",
+      "projectPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Core\\Delta.Core.csproj",
       "packagesPath": "C:\\Users\\carlos.martinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Core\\obj\\",
+      "outputPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

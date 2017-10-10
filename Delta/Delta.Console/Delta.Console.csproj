@@ -17,7 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Delta.Core.Fody\Delta.Core.Fody.csproj" />
     <ProjectReference Include="..\Delta.Core\Delta.Core.csproj" />
   </ItemGroup>
 

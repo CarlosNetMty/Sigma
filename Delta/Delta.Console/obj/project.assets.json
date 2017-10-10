@@ -677,19 +677,6 @@
         "runtime": {
           "bin/placeholder/Delta.Core.dll": {}
         }
-      },
-      "Delta.Core.Fody/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "dependencies": {
-          "Delta.Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Delta.Core.Fody.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Delta.Core.Fody.dll": {}
-        }
       }
     }
   },
@@ -2990,17 +2977,11 @@
       "type": "project",
       "path": "../Delta.Core/Delta.Core.csproj",
       "msbuildProject": "../Delta.Core/Delta.Core.csproj"
-    },
-    "Delta.Core.Fody/1.0.0": {
-      "type": "project",
-      "path": "../Delta.Core.Fody/Delta.Core.Fody.csproj",
-      "msbuildProject": "../Delta.Core.Fody/Delta.Core.Fody.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Delta.Core >= 1.0.0",
-      "Delta.Core.Fody >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "System.Data.Common >= 4.3.0"
     ]
@@ -3015,11 +2996,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Console\\Delta.Console.csproj",
+      "projectUniqueName": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Console\\Delta.Console.csproj",
       "projectName": "Delta.Console",
-      "projectPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Console\\Delta.Console.csproj",
+      "projectPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Console\\Delta.Console.csproj",
       "packagesPath": "C:\\Users\\carlos.martinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Console\\obj\\",
+      "outputPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3038,11 +3019,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Core\\Delta.Core.csproj": {
-              "projectPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Core\\Delta.Core.csproj"
-            },
-            "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Core.Fody\\Delta.Core.Fody.csproj": {
-              "projectPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Delta.Core.Fody\\Delta.Core.Fody.csproj"
+            "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Core\\Delta.Core.csproj": {
+              "projectPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Core\\Delta.Core.csproj"
             }
           }
         }

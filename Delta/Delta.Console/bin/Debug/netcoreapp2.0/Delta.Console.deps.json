@@ -9,7 +9,6 @@
       "Delta.Console/1.0.0": {
         "dependencies": {
           "Delta.Core": "1.0.0",
-          "Delta.Core.Fody": "1.0.0",
           "System.Data.Common": "4.3.0"
         },
         "runtime": {
@@ -286,14 +285,6 @@
         "runtime": {
           "Delta.Core.dll": {}
         }
-      },
-      "Delta.Core.Fody/1.0.0": {
-        "dependencies": {
-          "Delta.Core": "1.0.0"
-        },
-        "runtime": {
-          "Delta.Core.Fody.dll": {}
-        }
       }
     }
   },
@@ -549,11 +540,6 @@
       "hashPath": "system.threading.threadpool.4.0.10.nupkg.sha512"
     },
     "Delta.Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Delta.Core.Fody/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

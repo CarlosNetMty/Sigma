@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlos.martinez\\Source\\Delta\\Sigma.Model\\Sigma.Model.csproj",
+      "projectUniqueName": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Sigma.Model\\Sigma.Model.csproj",
       "projectName": "Sigma.Model",
-      "projectPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Sigma.Model\\Sigma.Model.csproj",
+      "projectPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Sigma.Model\\Sigma.Model.csproj",
       "packagesPath": "C:\\Users\\carlos.martinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos.martinez\\Source\\Delta\\Sigma.Model\\obj\\",
+      "outputPath": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Sigma.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,15 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delta.Core", "Delta.Core\De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delta.Console", "Delta.Console\Delta.Console.csproj", "{AD276309-C99E-4E87-9DB5-1339AAD37AC6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delta.Core.Fody", "Delta.Core.Fody\Delta.Core.Fody.csproj", "{DC09B540-8099-4D72-8A59-270E243ED552}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delta.Model", "Delta.Model\Delta.Model.csproj", "{19C4A0AE-B0E5-412F-AC0D-6EACCC1E167B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delta.Persistance", "Delta.Persistance\Delta.Persistance.csproj", "{3A5536B6-73C3-4D19-8EA3-7A4A7239DC7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigma.Model", "Sigma.Model\Sigma.Model.csproj", "{5DF556EE-80C2-4C74-9A42-1016FFEDE5A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sigma.Model", "Sigma.Model\Sigma.Model.csproj", "{5DF556EE-80C2-4C74-9A42-1016FFEDE5A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigma.Core", "Sigma.Core\Sigma.Core.csproj", "{B8AE61E6-88E9-44F7-8F75-06A5F173FD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sigma.Core", "Sigma.Core\Sigma.Core.csproj", "{B8AE61E6-88E9-44F7-8F75-06A5F173FD35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +29,6 @@ Global
 		{AD276309-C99E-4E87-9DB5-1339AAD37AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD276309-C99E-4E87-9DB5-1339AAD37AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD276309-C99E-4E87-9DB5-1339AAD37AC6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC09B540-8099-4D72-8A59-270E243ED552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC09B540-8099-4D72-8A59-270E243ED552}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC09B540-8099-4D72-8A59-270E243ED552}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC09B540-8099-4D72-8A59-270E243ED552}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19C4A0AE-B0E5-412F-AC0D-6EACCC1E167B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19C4A0AE-B0E5-412F-AC0D-6EACCC1E167B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19C4A0AE-B0E5-412F-AC0D-6EACCC1E167B}.Release|Any CPU.ActiveCfg = Release|Any CPU
