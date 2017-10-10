@@ -1,0 +1,15 @@
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Console.deps.json
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Console.runtimeconfig.json
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Console.runtimeconfig.dev.json
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Console.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Console.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Core.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Core.Fody.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Core.Fody.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\bin\Debug\netcoreapp2.0\Delta.Core.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\obj\Debug\netcoreapp2.0\Delta.Console.csprojResolveAssemblyReference.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\obj\Debug\netcoreapp2.0\Delta.Console.csproj.CoreCompileInputs.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\obj\Debug\netcoreapp2.0\Delta.Console.AssemblyInfoInputs.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\obj\Debug\netcoreapp2.0\Delta.Console.AssemblyInfo.cs
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\obj\Debug\netcoreapp2.0\Delta.Console.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Console\obj\Debug\netcoreapp2.0\Delta.Console.pdb

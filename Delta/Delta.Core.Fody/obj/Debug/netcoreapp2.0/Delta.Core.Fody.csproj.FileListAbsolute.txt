@@ -1,0 +1,11 @@
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\bin\Debug\netcoreapp2.0\Delta.Core.Fody.deps.json
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\bin\Debug\netcoreapp2.0\Delta.Core.Fody.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\bin\Debug\netcoreapp2.0\Delta.Core.Fody.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\bin\Debug\netcoreapp2.0\Delta.Core.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\bin\Debug\netcoreapp2.0\Delta.Core.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\obj\Debug\netcoreapp2.0\Delta.Core.Fody.csprojResolveAssemblyReference.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\obj\Debug\netcoreapp2.0\Delta.Core.Fody.csproj.CoreCompileInputs.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\obj\Debug\netcoreapp2.0\Delta.Core.Fody.AssemblyInfoInputs.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\obj\Debug\netcoreapp2.0\Delta.Core.Fody.AssemblyInfo.cs
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\obj\Debug\netcoreapp2.0\Delta.Core.Fody.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Core.Fody\obj\Debug\netcoreapp2.0\Delta.Core.Fody.pdb

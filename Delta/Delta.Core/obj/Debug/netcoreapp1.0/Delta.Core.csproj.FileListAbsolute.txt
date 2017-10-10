@@ -1,0 +1,7 @@
+C:\Users\carlos.martinez\Dropbox\Source\Delta\Delta.Core\bin\Debug\netcoreapp1.0\Delta.Core.deps.json
+C:\Users\carlos.martinez\Dropbox\Source\Delta\Delta.Core\bin\Debug\netcoreapp1.0\Delta.Core.dll
+C:\Users\carlos.martinez\Dropbox\Source\Delta\Delta.Core\bin\Debug\netcoreapp1.0\Delta.Core.pdb
+C:\Users\carlos.martinez\Dropbox\Source\Delta\Delta.Core\obj\Debug\netcoreapp1.0\Delta.Core.AssemblyInfo.cs
+C:\Users\carlos.martinez\Dropbox\Source\Delta\Delta.Core\obj\Debug\netcoreapp1.0\Delta.Core.dll
+C:\Users\carlos.martinez\Dropbox\Source\Delta\Delta.Core\obj\Debug\netcoreapp1.0\Delta.Core.pdb
+C:\Users\carlos.martinez\Dropbox\Source\Delta\Delta.Core\obj\Debug\netcoreapp1.0\Delta.Core.csproj.CoreCompileInputs.cache

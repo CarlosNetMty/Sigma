@@ -1,0 +1,13 @@
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\obj\Debug\netcoreapp2.0\Delta.Persistance.csprojResolveAssemblyReference.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\obj\Debug\netcoreapp2.0\Delta.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\obj\Debug\netcoreapp2.0\Delta.Persistance.AssemblyInfoInputs.cache
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\obj\Debug\netcoreapp2.0\Delta.Persistance.AssemblyInfo.cs
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\bin\Debug\netcoreapp2.0\Delta.Persistance.deps.json
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\bin\Debug\netcoreapp2.0\Delta.Persistance.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\bin\Debug\netcoreapp2.0\Delta.Persistance.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\bin\Debug\netcoreapp2.0\Delta.Core.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\bin\Debug\netcoreapp2.0\Delta.Model.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\bin\Debug\netcoreapp2.0\Delta.Model.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\bin\Debug\netcoreapp2.0\Delta.Core.pdb
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\obj\Debug\netcoreapp2.0\Delta.Persistance.dll
+C:\Users\carlos.martinez\Source\Delta\Delta.Persistance\obj\Debug\netcoreapp2.0\Delta.Persistance.pdb
