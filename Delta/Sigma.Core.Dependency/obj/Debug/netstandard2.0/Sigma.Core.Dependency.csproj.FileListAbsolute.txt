@@ -1,0 +1,9 @@
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\bin\Debug\netstandard2.0\Sigma.Core.Dependency.deps.json
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\bin\Debug\netstandard2.0\Sigma.Core.Dependency.dll
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\bin\Debug\netstandard2.0\Sigma.Core.Dependency.pdb
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\obj\Debug\netstandard2.0\Sigma.Core.Dependency.csprojResolveAssemblyReference.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\obj\Debug\netstandard2.0\Sigma.Core.Dependency.csproj.CoreCompileInputs.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\obj\Debug\netstandard2.0\Sigma.Core.Dependency.AssemblyInfoInputs.cache
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\obj\Debug\netstandard2.0\Sigma.Core.Dependency.AssemblyInfo.cs
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\obj\Debug\netstandard2.0\Sigma.Core.Dependency.dll
+C:\Users\carlos.martinez\Documents\GitHub\Sigma\Delta\Sigma.Core.Dependency\obj\Debug\netstandard2.0\Sigma.Core.Dependency.pdb

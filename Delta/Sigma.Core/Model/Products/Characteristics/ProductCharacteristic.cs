@@ -1,4 +1,4 @@
-﻿using Sigma.Core;
+﻿using Sigma.Core.Data;
 
 namespace Sigma.Core.Model.Products.Characteristics
 {

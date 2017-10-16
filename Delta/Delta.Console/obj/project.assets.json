@@ -2992,9 +2992,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Console\\Delta.Console.csproj",
       "projectName": "Delta.Console",

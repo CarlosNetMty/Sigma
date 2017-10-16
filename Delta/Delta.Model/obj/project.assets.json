@@ -3740,9 +3740,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Model\\Delta.Model.csproj",
       "projectName": "Delta.Model",
@@ -3778,6 +3775,12 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "2.0.0"
@@ -3785,12 +3788,6 @@
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "2.0.0"
-          },
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
           }
         },
         "imports": [

@@ -2811,9 +2811,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\Users\\carlos.martinez\\Documents\\GitHub\\Sigma\\Delta\\Delta.Core\\Delta.Core.csproj",
       "projectName": "Delta.Core",
@@ -2849,10 +2846,6 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "System.Runtime": {
-            "target": "Package",
-            "version": "4.3.0"
-          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
@@ -2862,6 +2855,10 @@
           "System.Reactive": {
             "target": "Package",
             "version": "3.1.1"
+          },
+          "System.Runtime": {
+            "target": "Package",
+            "version": "4.3.0"
           }
         },
         "imports": [
